@@ -38,9 +38,9 @@ Apresentar os dados
 
 ## Operadores
 
-- [x] Operadores de atribuição de valor
-- [x] Operador de concatenação
-
+- [x] Operadores de atribuição de valor: =
+- [x] Operador de concatenação: +
+- [x] Operadores de comparação: == != < > <= >=
 
 ## Estruturas de dados:
 
@@ -64,6 +64,7 @@ Apresentar os dados
 # Estrutura de repetição
 
 - [x] While
+- [x] If/else
 
 
 # Condicionais
@@ -78,4 +79,5 @@ Apresentar os dados
 
 
 ## Programação assíncrona e Promises:
+
 - [x] Uso de funções assíncronas (async/await)
