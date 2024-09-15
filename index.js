@@ -1,15 +1,10 @@
-// Arrays, objetos
-let meta = {
-    value: 'Ler um livro por mês',
-    checked: true,
+const start = () => {
+    let count = 1
+
+    while(count <= 10) {
+        console.log(count)
+        count = count + 1
+    }
 }
 
-let metas = [
-    meta,
-    {
-        value: "Caminhar 20 minutos todos os dias",
-        checket: false,
-    }
-]
-
-console.log(metas[1].value)
+start()
